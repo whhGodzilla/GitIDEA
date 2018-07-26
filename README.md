@@ -1,0 +1,2 @@
+# GitIDEA
+测试IDEA链接GIT-HUB
